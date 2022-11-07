@@ -1,1 +1,3 @@
 # Final-Project
+Creators: Ibrahim Miloua, Harry ..., Owen ...
+The focus on the project to was find The best neiborhood for raising a child using categories such as safety, proximity to child activites, and relative cost. This is what led us to find our datasets and the data we were interested in pulling.
