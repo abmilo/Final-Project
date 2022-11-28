@@ -2,7 +2,9 @@
 
 ## Author Information
 Creators: Ibrahim Miloua, Harry ..., Owen Capell
+
 Team Name: Flying Spider-Eagle-Monkeys
+
 Emails: iam51@pitt.edu, ... , oac8@pitt.edu
 
 ## Datasets
