@@ -1,3 +1,3 @@
 # Final-Project
 Creators: Ibrahim Miloua, Harry ..., Owen ...
-The focus on the project to was find The best neigborhoods for raising a child using categories such as safety, proximity to child activites, and relative cost for parents. This is what led us to find our datasets and the data we were interested in pulling.
+The focus on the project to was find The best neigborhoods for raising a child using categories such as walkibility, proximity to hosipitals in case of an emergency and crime rates. This is what led us to find our datasets and the data we were interested in pulling.
